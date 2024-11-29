@@ -1,0 +1,154 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": true,
+    "workbench.sideBar.location": "right",
+    "security.workspace.trust.untrustedFiles": "open",
+    "notebook.output.textLineLimit": 500,
+    "workbench.colorCustomizations": {
+      "terminalCursor.foreground": "#39ff14",
+      "terminal.foreground": "#35018f",
+      "terminal.background": "#000000",
+      "terminal.ansiBlack": "#000000",
+      "terminal.ansiBlue": "#005f87",
+      "terminal.ansiBrightBlack": "#8f0a0a",
+      "terminal.ansiBrightBlue": "#00afff",
+      "terminal.ansiBrightCyan": "#00dfff",
+      "terminal.ansiBrightGreen": "#afff00",
+      "terminal.ansiBrightMagenta": "#ff87ff",
+      "terminal.ansiBrightRed": "#ff5f5f",
+      "terminal.ansiBrightWhite": "#35018f",
+      "terminal.ansiBrightYellow": "#ffd700",
+      "terminal.ansiCyan": "#00afaf",
+      "terminal.ansiGreen": "#5faf00",
+      "terminal.ansiMagenta": "#8787af",
+      "terminal.ansiRed": "#d70000",
+      "terminal.ansiWhite": "#3b07ab",
+      "terminal.ansiYellow": "#d7af00"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "explorer.confirmDelete": false,
+    "dev.containers.executeInWSL": true,
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": true,
+      "markdown": true,
+      "scminput": false,
+      "html": true,
+      "javascript": true,
+      "typescript": true,
+      "javascriptreact": true,
+      "typescriptreact": true,
+      "json": true,
+      "jsonc": true,
+      "css": true,
+      "scss": true,
+      "less": true,
+      "graphql": true,
+      "yaml": true,
+      "dockerfile": true,
+      "shellscript": true,
+      "python": true,
+      "java": true,
+      "csharp": false,
+      "cpp": true,
+      "go": false,
+      "rust": false,
+      "ruby": false,
+      "php": false,
+      "swift": false,
+      "kotlin": false,
+      "scala": false,
+      "r": true,
+      "julia": false,
+      "lua": false,
+      "perl": false,
+      "haskell": false
+    },
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.fontSize": 14,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+    "terminal.integrated.stickyScroll.enabled": true,
+    "git.openRepositoryInParentFolders": "never",
+    "jupyter.askForKernelRestart": false,
+    "redhat.telemetry.enabled": false,
+    "git.autofetch": true,
+    "remote.SSH.defaultExtensions": [
+      "gitpod.gitpod-remote-ssh"
+    ],
+    "remote.SSH.remotePlatform": {
+      "*.gitpod.io": "linux"
+    },
+    "terminal.integrated.allowedLinkSchemes": [
+      "file",
+      "http",
+      "https",
+      "mailto",
+      "vscode",
+      "vscode-insiders",
+      "docker-desktop"
+    ],
+    "vs-kubernetes": {
+      "vscode-kubernetes.helm-path-windows": "C:\\Users\\yashk\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "gitlens.graph.minimap.additionalTypes": [
+      "localBranches",
+      "stashes",
+      "pullRequests"
+    ],
+    "gitlens.graph.minimap.dataType": "lines",
+    "workbench.editorAssociations": {
+      "*.sqlite": "default"
+    },
+    "git.ignoreRebaseWarning": true,
+    "pieces.cloudCapabilities": "Blended",
+    "pieces.telemetry": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "terminal.integrated.enableImages": true,
+    "powershell.powerShellDefaultVersion": "Windows PowerShell (x64)",
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.automationProfile.windows": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "commandline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": [
+        "-NoLogo",
+        "-NoExit",
+        "-Command",
+        "Invoke-Expression $([System.IO.File]::ReadAllText($env:APPDATA + '\\Code\\User\\terminal.automation.ps1'))"
+      ]
+    },
+    "explorer.confirmDragAndDrop": false,
+    "settingsSync.ignoredExtensions": [
+      "zoomworkspace.zoom"
+    ],
+    "explorer.confirmPasteNative": false,
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "files.associations": {
+      "*.jsx": "javascript"
+    },
+    "workbench.colorTheme": "GitHub Dark High Contrast",
+    "window.systemColorTheme": "dark",
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack",
+    "[java]": {
+      "editor.defaultFormatter": "redhat.java"
+    },
+    "editor.semanticTokenColorCustomizations": {},
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    }
+  }
